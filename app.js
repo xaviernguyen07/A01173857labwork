@@ -91,3 +91,4 @@ function addMovie() {
     // **3 Add to myMovies Object: watched zero times
     updateMovieHistory(userTypedText);
 }
+// add comments
