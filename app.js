@@ -92,3 +92,4 @@ function addMovie() {
     updateMovieHistory(userTypedText);
 }
 // add comments
+// add documentations here for labwork
